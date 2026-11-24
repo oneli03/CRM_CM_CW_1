@@ -1,0 +1,11 @@
+Evidence,Value
+Spearman: Monetary vs Amihud price impact (negative = Monetary is a sensible liquidity proxy),-0.936
+"   bootstrap 95% interval, low",-0.948
+"   bootstrap 95% interval, high",-0.921
+Market-wide high-volume days inside the RFM window (more than 30% of shares flagged),2.0
+Median share of a share's Monetary that comes from those days (%),6.947
+Spearman: Monetary vs Monetary excluding those days,0.999
+Shares that change traded-value quartile when those days are excluded (%),2.058
+Share of total Monetary held by the 10 largest shares (%),36.291
+Share of total Monetary held by the top 5% of shares (%),46.128
+eta^2: log Amihud across the RFM Ward clusters (do the clusters separate price impact?),0.0

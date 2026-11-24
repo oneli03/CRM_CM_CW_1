@@ -1,0 +1,15 @@
+Evidence,Value
+Price basis: correlation of beta on Adj Close vs Close,1.0
+Price basis: median absolute beta difference,0.001
+Price basis: largest absolute beta difference,0.017
+Beta estimation: median standard error,0.101
+Beta estimation: correlation of first-half and second-half beta,0.783
+Survivorship: clustering shares that joined the index before 2021 (%),85.185
+Survivorship: joined during 2021 to 2024 (%),9.671
+Survivorship: joined after the study window (%),5.144
+"Survivorship: tickers on the list that failed validation (share excluded, %)",3.38
+Feature overlap: effective independent dimensions in RFM (of 3),2.738
+Feature overlap: ARI when M is removed,0.873
+Liquidity proxy: highest cluster median M (USD bn),17.849
+Liquidity proxy: lowest cluster median M (USD bn),16.047
+Liquidity proxy: ratio of highest to lowest,1.112

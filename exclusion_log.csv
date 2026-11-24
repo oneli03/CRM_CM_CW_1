@@ -1,0 +1,18 @@
+Ticker,Security,Sector,First_Date,Last_Date,Exclusion_Reason
+APP,AppLovin,Communication Services,2021-04-15,2024-12-31,V2: history starts 2021-04-15 (listed after study start)
+COIN,Coinbase,Financials,2021-04-14,2024-12-31,V2: history starts 2021-04-14 (listed after study start)
+CEG,Constellation Energy,Utilities,2022-01-19,2024-12-31,V2: history starts 2022-01-19 (listed after study start)
+EXE,Expand Energy,Energy,2021-02-10,2024-12-31,V2: history starts 2021-02-10 (listed after study start)
+FDXF,FedEx Freight,Industrials,,,V1: no data returned by Yahoo Finance
+FERG,Ferguson Enterprises,Industrials,2021-01-04,2024-12-31,V5: 27 zero or negative volume days
+GEHC,GE HealthCare,Health Care,2022-12-15,2024-12-31,V2: history starts 2022-12-15 (listed after study start)
+GEV,GE Vernova,Industrials,2024-03-27,2024-12-31,V2: history starts 2024-03-27 (listed after study start)
+HONA,Honeywell Aerospace,Industrials,,,V1: no data returned by Yahoo Finance
+Q,Qnity Electronics,Information Technology,,,V1: no data returned by Yahoo Finance
+RDDT,Reddit,Communication Services,2024-03-21,2024-12-31,V2: history starts 2024-03-21 (listed after study start)
+HOOD,Robinhood Markets,Financials,2021-07-29,2024-12-31,V2: history starts 2021-07-29 (listed after study start)
+SNDK,Sandisk,Information Technology,,,V1: no data returned by Yahoo Finance
+SW,Smurfit Westrock,Materials,2021-01-04,2024-12-31,V5: 424 zero or negative volume days
+SOLV,Solventum,Health Care,2024-03-26,2024-12-31,V2: history starts 2024-03-26 (listed after study start)
+VLTO,Veralto,Industrials,2023-10-04,2024-12-31,V2: history starts 2023-10-04 (listed after study start)
+VYLR,Vylor,Consumer Staples,,,V1: no data returned by Yahoo Finance

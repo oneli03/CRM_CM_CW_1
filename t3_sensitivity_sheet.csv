@@ -1,0 +1,14 @@
+Measure,Value
+"corr(R, F)",-0.346
+"corr(R, log1p_M)",0.152
+"corr(F, log1p_M)",0.013
+Share of RFM variance on first principal axis (33.3% = independent),45.794
+VIF R,1.169
+VIF F,1.142
+VIF log1p_M,1.029
+"eta^2 R, Ward RFM",0.641
+"eta^2 F, Ward RFM",0.091
+"eta^2 log1p_M, Ward RFM",0.001
+ARI: Ward RFM vs Ward R and F only (k = 2),0.873
+eta^2 of log1p_M across RFM clusters (M included),0.001
+eta^2 of log1p_M across R and F only clusters (M removed),0.004

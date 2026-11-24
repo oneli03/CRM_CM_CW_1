@@ -1,0 +1,25 @@
+Check,Result
+Constituent list retrieved,2026-11-20 08:32 UTC
+Prices downloaded,2026-11-20 08:34 UTC
+Tickers on the Wikipedia list,503
+Excluded V1: no data returned,5
+Excluded V2: incomplete history,10
+Excluded V3: missing sessions inside history,0
+Excluded V4: nonpositive price,0
+Excluded V5: zero or negative volume,2
+Excluded V6: Close jumps on a split date,0
+Shares passing validation,486
+Duplicate dates on the benchmark calendar,0
+Retained shares: missing sessions,0
+Retained shares: nonpositive prices,0
+Retained shares: zero or negative volume days,0
+Split events among retained shares,61
+Ordinary splits with Volume that looks unadjusted,0
+Adj/Close factor changes not on a dividend or split date,0
+Aligned weekly return observations per share,207
+Observation date,2024-12-31
+60-session window,2024-10-07 to 2024-12-31
+High-volume share-days flagged (whole history),18280
+Shares with no high-volume event (R missing),0
+Shares with Frequency = 0,10
+Shares in the common valid set,486
